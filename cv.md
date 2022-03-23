@@ -5,7 +5,7 @@ Aruuke Talantbekova
 <p>
 
   *email: aruuke.talantbekova@alatoo.edu.kg*
-  *telegram: @Aruuke*
+ *telegram: @Aruuke*
 
 </p>
 </details>
