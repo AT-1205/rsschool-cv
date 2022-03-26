@@ -35,3 +35,9 @@ Also, beside programming I have learned Database, Graphic and Engineering design
      - Java
      - HTML
 
+### LANGUAGES
+
+- English (IELTS - 6.0)
+- Kyrgyz - native
+- Russian - native
+- Turkish - A1
