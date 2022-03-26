@@ -1,12 +1,10 @@
 ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
-Aruuke Talantbekova
+# Aruuke Talantbekova
 
-<details><summary>CONTACT ME</summary>
-<p>
+## CONTACTS
 
-  *email: aruuke.talantbekova@alatoo.edu.kg*
- *telegram: @Aruuke*
+- **email:** aruuke.talantbekova@alatoo.edu.kg
+- **telegram:** @Aruuke
+- **github:** https://github.com/AT-1205
 
-</p>
-</details>
 
