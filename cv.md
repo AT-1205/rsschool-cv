@@ -25,6 +25,11 @@ Also, beside programming I have learned Database, Graphic and Engineering design
 
 ### CODE EXEMPLE
 
+### Expirience
+
+- Telegram-Bot
+- Desktop simple game 
+
 ### Education
 
 - University: 
