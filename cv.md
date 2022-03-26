@@ -27,8 +27,8 @@ Also, beside programming I have learned Database, Graphic and Engineering design
 
 ### Expirience
 
-- Telegram-Bot
-- Desktop simple game 
+- [Telegram-Bot](https://github.com/AT-1205/Bot)
+- [Landing Page about Myself](https://github.com/AT-1205/MidtermWEB)
 
 ### Education
 
