@@ -27,6 +27,11 @@ Also, beside programming I have learned Database, Graphic and Engineering design
 
 ### Education
 
-- University: - Ala-TOO
-- 
+- University: 
+     - Ala-Too International university (freshman year)
+     - Final International university (current study place)
+- Couurses:
+     - Graphic design
+     - Java
+     - HTML
 
