@@ -23,3 +23,10 @@ Also, beside programming I have learned Database, Graphic and Engineering design
 - HTML5, CSS
 - Git, Github
 
+### CODE EXEMPLE
+
+### Education
+
+- University: - Ala-TOO
+- 
+
