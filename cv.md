@@ -28,7 +28,7 @@ Also, beside programming I have learned Database, Graphic and Engineering design
 
 #### JavaScript CodeWars 
 
-```
+```ruby
     function maskify(cc) {
         if (cc.length > 4) {
              let result = '';
