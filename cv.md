@@ -23,7 +23,27 @@ Also, beside programming I have learned Database, Graphic and Engineering design
 - HTML5, CSS
 - Git, Github
 
-### CODE EXEMPLE
+<details><summary>CODE EXEMPLE</summary>
+<p>
+
+#### JavaScript CodeWars 
+
+    ```ruby
+      function maskify(cc) {
+          if (cc.length > 4) {
+               let result = '';
+               for (let i = 1; i <= 4; i++) {
+                    result = `${cc[cc.length - i]}${result}`;
+               }
+               return ('#'.repeat(cc.length - 4) + result);
+          } else {
+               return cc;
+          }
+     }
+    ```
+
+</p>
+</details>
 
 ### Expirience
 
